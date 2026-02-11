@@ -1,0 +1,19 @@
+{
+  "name": "socket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "nodemon": "^3.1.11",
+    "socket.io": "^4.8.3",
+    "uuid": "^13.0.0"
+  }
+}
