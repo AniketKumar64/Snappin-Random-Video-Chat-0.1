@@ -34,8 +34,6 @@ The platform is built using a scalable architecture combining Next.js, Node.js, 
 
 ## 🏗 System Architecture
 
-## 🏗 System Architecture
-
 User  
 ↓  
 Next.js Client  
