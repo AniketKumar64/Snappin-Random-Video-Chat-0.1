@@ -32,7 +32,7 @@ const item = {
       className="bg-[#0c0a06] relative text-[#ffffff]"
     >
       <motion.div
-        className="absolute w-[600px] h-[600px] bg-amber-500/30 rounded-full blur-3xl opacity-20"
+        className="hidden md:absolute w-[600px] h-[600px] bg-amber-500/30 rounded-full blur-3xl opacity-20"
         animate={{ y: [0, -30, 0] }}
         transition={{
           duration: 8,
