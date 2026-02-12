@@ -14,7 +14,7 @@ const Footer = () => {
 <a className="text-white hover:text-[#f2a60d] transition-colors" href="#"><span className="material-icons">alternate_email</span></a>
 </div>
 </div>
-<div className="grid grid-cols-2 md:grid-cols-1">
+<div className="grid grid-cols-2 ">
     <div >
 <h6 className="font-marker text-[#f2a60d] text-xl mb-6">EXPLORE</h6>
 <ul className="space-y-3 text-sm font-bold uppercase tracking-tight">
